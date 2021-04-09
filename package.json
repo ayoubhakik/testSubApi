@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: nco teddst specified\" && exit 1"
+    "test": "echo \"Error:  specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
